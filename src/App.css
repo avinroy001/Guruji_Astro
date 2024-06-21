@@ -1,6 +1,6 @@
 body{
   width: 100vw;
-  height: 100vh;
+  height: max-content;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -11,4 +11,5 @@ body{
   height: max-content;
   width: 500px;
   padding: 5%;
+  margin: 5%;
 }
